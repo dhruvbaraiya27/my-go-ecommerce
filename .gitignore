@@ -1,0 +1,53 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go specific
+vendor/
+go.work
+
+# Environment and config
+.env
+.env.local
+.env.*.local
+config.yaml
+config.yml
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Test coverage
+coverage.txt
+coverage.html
+*.cover
+
+# Build output
+/build/
+/dist/
+/bin/
+
+# Temporary files
+/tmp/
+/temp/
