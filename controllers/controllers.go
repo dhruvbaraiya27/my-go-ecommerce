@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/akhil/ecommerce-yt/database"
-	"github.com/akhil/ecommerce-yt/models"
-	generate "github.com/akhil/ecommerce-yt/tokens"
+	"github.com/dhurvbaraiya27/ecommerce-yt/database"
+	"github.com/dhurvbaraiya27/ecommerce-yt/models"
+	generate "github.com/dhurvbaraiya27/ecommerce-yt/tokens"
 
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"
